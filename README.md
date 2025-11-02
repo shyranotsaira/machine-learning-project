@@ -1,4 +1,5 @@
-# Data Science Portfolio: Applied Machine Learning & Data EngineeringThis repository showcases three key projects demonstrating proficiency across core data science domains: predictive modeling, unsupervised learning, and advanced feature engineering. These projects highlight a strong technical foundation and the ability to turn complex data into actionable insights and product features.
+# Data Science Portfolio: 
+Applied Machine Learning & Data EngineeringThis repository showcases three key projects demonstrating proficiency across core data science domains: predictive modeling, unsupervised learning, and advanced feature engineering. These projects highlight a strong technical foundation and the ability to turn complex data into actionable insights and product features.
 
 1. Project 1: Classification of Obesity LevelsThis project focuses on building a robust classification model to predict an individual's level of obesity across seven distinct categories, utilizing nutritional habits and physical activity data.
 * Key Achievements:
